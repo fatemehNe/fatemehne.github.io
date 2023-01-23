@@ -1,7 +1,7 @@
 # [Alembic](https://alembic.darn.es/)
 [![Gem Version](https://badge.fury.io/rb/alembic-jekyll-theme.svg)](https://badge.fury.io/rb/alembic-jekyll-theme)
 
-⚗ Arash Portfolio
+⚗ Fatima's Portfolio
 
 ![Screenshot](https://raw.githubusercontent.com/daviddarnes/alembic/master/screenshot.png)
 
