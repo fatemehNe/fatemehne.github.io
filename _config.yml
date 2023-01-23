@@ -129,7 +129,7 @@ navigation_header:
 # - title: Blog
 #   url: /blog/
 - title: Projects
-  url: /projects/
+  url: /_myprojects/_index.md/
 - title: Hobbies
   url: /hobbies/
 # - title: Fork Alembic
