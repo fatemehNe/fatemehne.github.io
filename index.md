@@ -4,7 +4,7 @@ feature_text: |
   ## Hey! I am Fatima - a Cyber Girl
 
 # feature_image: "https://lucknowrecreation.com/wp-content/uploads/2018/04/Monthly-Website-Header-background-e1522931579825.jpg"
-feature_image: "https://github.com/Arashfd75/Arashfd75.github.io/blob/main/assets/images/banner1.png?raw=true"
+feature_image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnEZG5LUxilTZPwczpFntxGGwNLqX5bvx_8nCKEnuqHi3X44jqhUvZG6oGxLjh09I7FUo&usqp=CAU"
 excerpt: "This is Arash's webpage where he explains more about his previous experiences"
 ---
 <!-- 
