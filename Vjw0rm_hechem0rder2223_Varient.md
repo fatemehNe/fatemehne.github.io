@@ -1,5 +1,18 @@
   
-
+title: Vjw0rm hechem0rder2223 Varient
+description: Vjw0rm Analysis.
+toc: true
+authors: fatimaNezhadian
+<!-- tags:
+  - career
+  - failure
+  - adversity
+  - cyber -->
+categories: projects
+date: '2023-01-22'
+lastmod: '2023-01-22'
+draft: false
+---
 
   
 VJw0rm is a worm that was first released in November 2016 by its primary author, v_B01 (aka Sliemerez).  [^1] It has different variant in JavaScript, Visual Basic, and powershell. This worm steals some system information and executes some commands from a command and control (C&C) server.
