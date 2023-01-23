@@ -12,7 +12,7 @@ aside: false
 #### ELCH Hackathon
 Recently, I participated in the ELCH hackathon where I got into finals with my teammate(Nour), and we will present at CISO Forum on Jan 31st! I registered in this hackathon by myself, but then learned that I can team up with other participants, so I talked to one of the participants and teamed up! The point is that I have never met Nour and did not know each other, yet we managed to cooperate over zoom and did a great job that resulted in being selected as finalists! In this hackathon, we wrote an incident response report for a hypothetical office breach.
 I will update the results here!
-{% include figure.html image="https://github.com/fatemehNe/fatemehNe.github.io/blob/main/images/finalists.jpg"  width="300" height="800" %}
+{% include figure.html image="https://github.com/fatemehNe/fatemehNe.github.io/blob/main/images/finalists.jpg?raw=true"  width="300" height="800" %}
 
 
 ### Fast learner
@@ -26,7 +26,7 @@ I started my master's in cyber security with a background in computer hardware, 
 ### Love challenges
 #### Every time I learned a new thing!
 Unlike most people, I love challenges! Challenges are like boosters to my motives and make keep going forward! Without challenges task will become boring for me after several month, but challenges gives a reason to go beyond my knowledge and learn the solution for the challenge and improve myself. 
-{% include figure.html image="https://github.com/fatemehNe/fatemehNe.github.io/blob/main/images/meme.jpg"  width="300" height="800" %}
+{% include figure.html image="https://github.com/fatemehNe/fatemehNe.github.io/blob/main/images/meme.jpg?raw=true"  width="300" height="800" %}
 
 
 ### Eager to learn
