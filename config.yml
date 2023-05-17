@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Fatima's Portfoio
-    subtitle: "I have just started my career life by being a security anayst at MPAC. Also, I recently graduated with her master’s in computer science/ cyber security at the university of Saskatchewan. I recently won the ELCH hackathon in the incident response track. I ave  also been exploring other different areas in cyber security such malware analysis and network security."
+    subtitle: "I have just started my career life as a security anayst at MPAC. Also, I recently graduated with her master’s in computer science/ cyber security at the university of Saskatchewan. I recently won the ELCH hackathon in the incident response track. I ave  also been exploring other different areas in cyber security such malware analysis and network security."
     imageUrl: "images/IMG_4008.jpeg"
     imageWidth: 120
     imageHeight: 120
