@@ -13,7 +13,7 @@ googleAnalytics: UA-123-45
 minify:
   disableXML: true
   minifyOutput: true
-
+# cm-test
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: ExampleSite
