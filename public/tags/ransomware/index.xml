@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ransomware on Fatima&#39;s Portfolio</title>
-    <link>http://localhost:1313/tags/ransomware/</link>
+    <link>https://fatemehne.github.io/tags/ransomware/</link>
     <description>Recent content in Ransomware on Fatima&#39;s Portfolio</description>
     <image>
       <title>Fatima&#39;s Portfolio</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://fatemehne.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://fatemehne.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ransomware/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fatemehne.github.io/tags/ransomware/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Incident Report: Simulated Ransomware incident response (ELCH/SiberX)</title>
-      <link>http://localhost:1313/posts/irforce-ransomware-response/</link>
+      <link>https://fatemehne.github.io/posts/irforce-ransomware-response/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/irforce-ransomware-response/</guid>
+      <guid>https://fatemehne.github.io/posts/irforce-ransomware-response/</guid>
       <description>Our winning IR submission: ransomware outbreak, lateral movement, and containment with actionable recommendations.</description>
     </item>
     
