@@ -1,0 +1,21 @@
+{{- /* Simplified post meta to avoid escaped HTML in listings/singles */ -}}
+{{- $meta := slice -}}
+
+{{- if not .Date.IsZero -}}
+  {{- $meta = $meta | append (.Date | time.Format (default "January 2, 2006" site.Params.DateFormat)) -}}
+{{- end -}}
+
+{{- if (.Param "ShowReadingTime") -}}
+  {{- $meta = $meta | append (printf "%d min" .ReadingTime) -}}
+{{- end -}}
+
+{{- if (.Param "ShowWordCount") -}}
+  {{- $meta = $meta | append (printf "%d words" .WordCount) -}}
+{{- end -}}
+
+{{- $author := (.Params.author | default site.Params.author) -}}
+{{- if $author -}}
+  {{- $meta = $meta | append $author -}}
+{{- end -}}
+
+{{- delimit $meta " · " -}}

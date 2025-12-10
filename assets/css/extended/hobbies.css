@@ -1,0 +1,80 @@
+.hobby-hero {
+  margin-bottom: var(--gap);
+}
+
+.hobby-lead {
+  margin: 6px 0 8px;
+  font-size: 1.05rem;
+}
+
+.hobby-text {
+  color: var(--secondary);
+  line-height: 1.6;
+  margin: 0;
+}
+
+.hobby-traits {
+  display: flex;
+  flex-direction: column;
+  gap: var(--content-gap);
+}
+
+.hobby-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: var(--content-gap);
+}
+
+.hobby-card {
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px;
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.08);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.hobby-card h3 {
+  margin: 0 0 10px;
+}
+
+.hobby-thumb-hero {
+  display: block;
+  width: 100%;
+  height: 180px;
+  border-radius: var(--radius);
+  background-size: cover;
+  background-position: center;
+  border: 1px solid var(--border);
+  box-shadow: 0 10px 22px rgba(0, 0, 0, 0.08);
+  margin-top: 4px;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.hobby-thumb-strip {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.hobby-thumb-link img {
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
+}

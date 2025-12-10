@@ -1,0 +1,36 @@
+{{ define "main" }}
+<section class="hobby-hero">
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="hobby-lead">{{ . }}</p>{{ end }}
+  {{ with .Params.intro }}<p class="hobby-text">{{ . }}</p>{{ end }}
+</section>
+
+{{ with .Params.traits }}
+<section class="hobby-traits">
+  <div class="hobby-grid">
+    {{ range . }}
+    <article class="hobby-card">
+      <h3>{{ .title }}</h3>
+      <p class="hobby-text">{{ .body }}</p>
+      {{ with .images }}
+      {{ $hero := index . 0 }}
+      <a class="hobby-thumb-hero" href="{{ $hero | absURL }}" target="_blank" rel="noopener noreferrer" style="background-image: url('{{ $hero | absURL }}');">
+        <span class="sr-only">Open full image</span>
+      </a>
+      {{ if gt (len .) 1 }}
+      <div class="hobby-thumb-strip">
+        {{ range $idx, $img := . | after 0 }}
+        <a class="hobby-thumb-link" href="{{ $img | absURL }}" target="_blank" rel="noopener noreferrer">
+          <img src="{{ $img | absURL }}" alt="Baking photo {{ add $idx 1 }}" loading="lazy" />
+        </a>
+        {{ end }}
+      </div>
+      {{ end }}
+      {{ end }}
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ end }}

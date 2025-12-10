@@ -1,6 +1,7 @@
 baseURL: "https://fatemehne.github.io/"
 title: Fatima's Portfolio
-paginate: 5
+pagination:
+  pagerSize: 5
 theme:  PaperMod
 # new cm to test
 enableRobotsTXT: true
@@ -60,14 +61,19 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Fatima's Portfoio
-    subtitle: "I have just started my career life as a security anayst at MPAC. Also, I recently graduated with her master’s in computer science/ cyber security at the university of Saskatchewan. I recently won the ELCH hackathon in the incident response track. I ave  also been exploring other different areas in cyber security such malware analysis and network security."
-    imageUrl: "images/IMG_4008.jpeg"
-    imageWidth: 120
-    imageHeight: 120
+    subtitle: |
+      Hi, I’m Fatima — an incident engineer passionate about incident response, threat intelligence, and building security programs that make sense for the business. I’ve handled incidents from credential-stuffing to data exposure and turn those lessons into stronger processes, better detections, and smarter decisions.
+
+      I’ve spoken at BSides Saskatoon about the strategic side of CTI, published cybersecurity research, and explored everything from threat modelling to automation and DevSecOps. My goal: help teams stay secure, informed, and ready for whatever comes next.
+    imageUrl: "images/IMG_8561.jpg"
+    imageWidth: 160
+    imageHeight: 160
     imageTitle: my image
     buttons:
       - name: Posts
         url: posts
+      - name: Public Talks
+        url: talks
       - name: Soft Skills
         url: intellectual
       - name: Hobbies
