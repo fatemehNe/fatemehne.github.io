@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Incident Response on Fatima&#39;s Portfolio</title>
-    <link>https://fatemehne.github.io/tags/incident-response/</link>
+    <link>http://localhost:1313/tags/incident-response/</link>
     <description>Recent content in Incident Response on Fatima&#39;s Portfolio</description>
     <image>
       <title>Fatima&#39;s Portfolio</title>
-      <url>https://fatemehne.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://fatemehne.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://fatemehne.github.io/tags/incident-response/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/incident-response/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BSides Saskatoon: CTI as a strategic asset</title>
-      <link>https://fatemehne.github.io/talks/bsides-saskatoon/</link>
+      <link>http://localhost:1313/talks/bsides-saskatoon/</link>
       <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://fatemehne.github.io/talks/bsides-saskatoon/</guid>
+      <guid>http://localhost:1313/talks/bsides-saskatoon/</guid>
       <description>How cyber threat intelligence guides risk, investment, and team building—beyond the usual use cases.</description>
     </item>
     
     <item>
       <title>ELCH/SiberX Hackathon: Incident Response Track winner</title>
-      <link>https://fatemehne.github.io/talks/elch-siberx-hackathon/</link>
+      <link>http://localhost:1313/talks/elch-siberx-hackathon/</link>
       <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://fatemehne.github.io/talks/elch-siberx-hackathon/</guid>
+      <guid>http://localhost:1313/talks/elch-siberx-hackathon/</guid>
       <description>Presented our incident response strategy and won the ELCH/SiberX hackathon IR track.</description>
     </item>
     
     <item>
       <title>Incident Report: Simulated Ransomware incident response (ELCH/SiberX)</title>
-      <link>https://fatemehne.github.io/posts/irforce-ransomware-response/</link>
+      <link>http://localhost:1313/posts/irforce-ransomware-response/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://fatemehne.github.io/posts/irforce-ransomware-response/</guid>
+      <guid>http://localhost:1313/posts/irforce-ransomware-response/</guid>
       <description>Our winning IR submission: ransomware outbreak, lateral movement, and containment with actionable recommendations.</description>
     </item>
     
