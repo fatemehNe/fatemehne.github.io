@@ -29,4 +29,5 @@ images = ["/images/ski.png"]
 [[traits]]
 title = "Indoor rock climbing"
 body = "I enjoy indoor rock climbing—it’s a fun and challenging activity that lets me explore unusual movements and techniques you’d never try on solid ground, lol."
+images = ["/images/Rock-clmb.png"]
 +++

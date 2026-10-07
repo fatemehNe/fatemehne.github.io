@@ -60,12 +60,16 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Fatima's Portfoio
+    title: Bio
     subtitle: |
-      Hi, I’m Fatima — an incident engineer passionate about incident response, threat intelligence, and building security programs that make sense for the business. I’ve handled incidents from credential-stuffing to data exposure and turn those lessons into stronger processes, better detections, and smarter decisions.
+      **Hi, I'm Fatima.**
 
-      I’ve spoken at BSides Saskatoon about the strategic side of CTI, published cybersecurity research, and explored everything from threat modelling to automation and DevSecOps. My goal: help teams stay secure, informed, and ready for whatever comes next.
-    imageUrl: "images/IMG_8561.jpg"
+      I'm an incident engineer with five years in cybersecurity, working across research, security analysis, and incident response. I've handled everything from credential stuffing and phishing to data exposure, and I like turning what each incident teaches us into better processes, sharper detections, and smarter decisions.
+
+      What I enjoy most is helping teams get security right. I review designs, advise on lasting fixes after incidents, and explain technical risk in terms the business can act on. To me, good security builds trust instead of friction, and that only works when you understand what the business is trying to achieve.
+
+      I speak at BSides events and community panels about threat intelligence and incident response, and I'm always up for conversations that make security feel more approachable.
+    imageUrl: "images/me2.png"
     imageWidth: 160
     imageHeight: 160
     imageTitle: my image

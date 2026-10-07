@@ -10,4 +10,4 @@ I love sharing security learnings with the community. Here you can find the talk
 
 Each card below links to the full details for that talk.
 
-Recent sessions include BSides Saskatoon on threat intelligence, the winning ELCH/SiberX incident response presentation, and research presented at ARES 2022.
+Recent sessions include “Armouring incident responders” at BSides Edmonton and BSides Saskatoon, and hosting the “Women in Leadership: Leading with Impact” panel at Canada Security Collective Calgary.
