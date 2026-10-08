@@ -10,9 +10,64 @@
       <link>https://fatemehne.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fatemehne.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://fatemehne.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Malware analysis</title>
+      <title>Incident Response</title>
+      <link>https://fatemehne.github.io/tags/incident-response/</link>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatemehne.github.io/tags/incident-response/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk</title>
+      <link>https://fatemehne.github.io/tags/talk/</link>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatemehne.github.io/tags/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leadership</title>
+      <link>https://fatemehne.github.io/tags/leadership/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatemehne.github.io/tags/leadership/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panel</title>
+      <link>https://fatemehne.github.io/tags/panel/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatemehne.github.io/tags/panel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Threat Intelligence</title>
+      <link>https://fatemehne.github.io/tags/threat-intelligence/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatemehne.github.io/tags/threat-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Index</title>
+      <link>https://fatemehne.github.io/tags/index/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatemehne.github.io/tags/index/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malware Analysis</title>
       <link>https://fatemehne.github.io/tags/malware-analysis/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
       
@@ -21,11 +76,38 @@
     </item>
     
     <item>
-      <title>index</title>
-      <link>https://fatemehne.github.io/tags/index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Hackathon</title>
+      <link>https://fatemehne.github.io/tags/hackathon/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://fatemehne.github.io/tags/index/</guid>
+      <guid>https://fatemehne.github.io/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IR Playbook</title>
+      <link>https://fatemehne.github.io/tags/ir-playbook/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatemehne.github.io/tags/ir-playbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ransomware</title>
+      <link>https://fatemehne.github.io/tags/ransomware/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatemehne.github.io/tags/ransomware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://fatemehne.github.io/tags/research/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatemehne.github.io/tags/research/</guid>
       <description></description>
     </item>
     

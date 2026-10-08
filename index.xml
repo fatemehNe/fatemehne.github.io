@@ -10,7 +10,44 @@
       <link>https://fatemehne.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 22 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fatemehne.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://fatemehne.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BSides Saskatoon: Armouring incident responders</title>
+      <link>https://fatemehne.github.io/talks/bsides-saskatoon-2026/</link>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatemehne.github.io/talks/bsides-saskatoon-2026/</guid>
+      <description>In this talk, I explored real-world experiences navigating security incident handling in high-stress environments, where customer impacts are real, and where it can feel like someone is always watching over my shoulder and judging my effectiveness. Autonomy is also commonly very low; I am expected to work magic, often without the ability to directly influence root causes and meaningful change. No two incidents are ever the same, and each requires a level of preparation and training I never feel I have enough time for. Due to these complexities, security operations and incident response is one of the highest stress positions in our industry, which is even more scary when I consider it&amp;#39;s often the entry point for practitioners into cybersecurity.</description>
+    </item>
+    
+    <item>
+      <title>BSides Edmonton: Armouring incident responders</title>
+      <link>https://fatemehne.github.io/talks/bsides-edmonton-2026/</link>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatemehne.github.io/talks/bsides-edmonton-2026/</guid>
+      <description>I took the audience on a journey that showed them how to be confident, creative, and capable when an incident is assigned to them. We showcased incident support structures like procedures, guidelines, and checklists, examining which ones work, which don&amp;#39;t, and why. We also encouraged attendees to build their own and validate their effectiveness. Finally, we helped them identify focal points for getting the information they need, when they need it, so they can navigate this high-stress job with professionalism, dignity, and grace.</description>
+    </item>
+    
+    <item>
+      <title>Canada Security Collective Calgary: Women in Leadership — Leading with Impact</title>
+      <link>https://fatemehne.github.io/talks/csc-calgary-women-in-leadership-2026/</link>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatemehne.github.io/talks/csc-calgary-women-in-leadership-2026/</guid>
+      <description>Hosted a panel at CSC Calgary 2026 featuring female leaders from security, energy, and entrepreneurship. The discussion explored how leadership develops before a formal title appears, from leading authentically in male-dominated environments to navigating self-doubt and making pivotal decisions, and ended with a call to action for the security sector to better support future women leaders.</description>
+    </item>
+    
+    <item>
+      <title>BSides Saskatoon: CTI as a strategic asset</title>
+      <link>https://fatemehne.github.io/talks/bsides-saskatoon/</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatemehne.github.io/talks/bsides-saskatoon/</guid>
+      <description>How cyber threat intelligence guides risk, investment, and team building—beyond the usual use cases.</description>
+    </item>
+    
     <item>
       <title>Hobbies</title>
       <link>https://fatemehne.github.io/hobby/</link>
@@ -22,11 +59,20 @@
     
     <item>
       <title>Vjw0rm hechem0rder2223 Varient</title>
-      <link>https://fatemehne.github.io/post/vjw0rm/</link>
+      <link>https://fatemehne.github.io/posts/vjw0rm/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://fatemehne.github.io/post/vjw0rm/</guid>
+      <guid>https://fatemehne.github.io/posts/vjw0rm/</guid>
       <description>VjW0rm analysis</description>
+    </item>
+    
+    <item>
+      <title>ELCH/SiberX Hackathon: Incident Response Track winner</title>
+      <link>https://fatemehne.github.io/talks/elch-siberx-hackathon/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatemehne.github.io/talks/elch-siberx-hackathon/</guid>
+      <description>Presented our incident response strategy and won the ELCH/SiberX hackathon IR track.</description>
     </item>
     
     <item>
@@ -35,7 +81,25 @@
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://fatemehne.github.io/intellectual/</guid>
-      <description>Learn MORE ABOUT ME!</description>
+      <description>Dependable, fast-learning, and focused on clear communication.</description>
+    </item>
+    
+    <item>
+      <title>Incident Report: Simulated Ransomware incident response (ELCH/SiberX)</title>
+      <link>https://fatemehne.github.io/posts/irforce-ransomware-response/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatemehne.github.io/posts/irforce-ransomware-response/</guid>
+      <description>Our winning IR submission: ransomware outbreak, lateral movement, and containment with actionable recommendations.</description>
+    </item>
+    
+    <item>
+      <title>ARES 2022: Web proxy misbehavior analysis</title>
+      <link>https://fatemehne.github.io/talks/ares-2022-proxy-research/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fatemehne.github.io/talks/ares-2022-proxy-research/</guid>
+      <description>Published research on HTTP/S proxy behavior at ARES 2022, using a threat intelligence lens to predict manipulations before they happen. The work was presented and defended as master&amp;#39;s thesis.</description>
     </item>
     
   </channel>
